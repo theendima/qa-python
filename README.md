@@ -1,4 +1,4 @@
 # qa-python
-qa python
-added git
-qa python added pycharm
+    qa python
+    added git
+    qa python added pycharm
