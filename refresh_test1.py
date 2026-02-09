@@ -1,6 +1,7 @@
 import pytest
 
 def test_first():
-    a = 5
+    a = 9
     b = 10
     assert a == b
+
